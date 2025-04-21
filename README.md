@@ -32,7 +32,7 @@ This project utilizes data from the American Community Survey (ACS) for economic
 
 ## Exploratory Data Analysis and Visualization
 
-An HTML-based interactive map was created to visualize healthcare service deserts in the Southwest Baltimore community and the locations of homeless shelters and social welfare centers within Southwest Baltimore and surrounding areas. This visualization aims to highlight potential health and wellness service deserts, providing insights for Paul's Place and other organizations to strategically focus their health outreach efforts. The map can be accessed [here](link here) and [here](link here).
+An HTML-based interactive map was created to visualize healthcare service deserts in the Southwest Baltimore community and the locations of homeless shelters and social welfare centers within Southwest Baltimore and surrounding areas. This visualization aims to highlight potential health and wellness service deserts, providing insights for Paul's Place and other organizations to strategically focus their health outreach efforts. The map can be accessed [here](https://paulsplacemd.github.io/SWBaltimorepaulsplacehealthcenteraccesibilitymap/) and [here](https://paulsplacelocator.streamlit.app).
 
 ## Conclusion
 
@@ -49,11 +49,11 @@ This work is crucial for informing organizations like Paul's Place about areas n
 - **Internal Data Collection:** Implementing methods for collating data directly from individuals accessing Paul's Place services (e.g., online forms, surveys) could provide targeted insights.
 - **Enhanced Data Integration:** Combining internal data with public datasets could lead to a robust understanding of community health needs.
 - **Predictive Modeling:** Further development of our predictive models could help anticipate future health risks and inform proactive interventions.
-- 
 
-## Contact
+[Project Markdown File](https://github.com/paulsplacemd/Geospatialproject/blob/f1ab195518e37b55b93f8f721f11f9cfb242d688/geospatial.md)
 
-For any inquiries or further information, please feel free to reach out.
 
-[Team Name]
-[Email Address/Contact Information]
+For any inquiries, please feel free to reach out.
+
+[Howard University Pauls Place Data Squad]
+[Email](paulsplacemd@gmail.com)
