@@ -8,8 +8,10 @@ This specific aspect of the project focuses on creating a map highlighting healt
 
 ## Key Features
 
-- **Geospatial Mapping:** Visualization of homeless shelters and social welfare centers near Paul's Place in Southwest Baltimore.
-- **Health Service Desert Identification:** Aims to highlight areas with limited access to health and social welfare resources.
+-  Visualization of homeless shelters and social welfare centers near Paul's Place in Southwest Baltimore.
+-  Aims to highlight areas with limited access to health and social welfare resources.
+-  Aims to support data-driven decisions for resource allocation and service delivery.
+
 
 ## Getting Started
 
